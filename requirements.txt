@@ -10,3 +10,5 @@ tqdm
 Pillow
 albumentations
 torchvision
+seaborn
+mlflow
